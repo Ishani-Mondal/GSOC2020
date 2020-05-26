@@ -1,0 +1,48 @@
+Gold Triples:
+
+1' 'Barack Hussein Obama II' 'is' 'an American politician')
+'1' 'an American politician' 'is' 'the 44th and current President of the United States')
+'2' 'He' 'is' 'the first African American to hold the office and the first president born outside the continental United States')
+'2' 'the first president' 'be born' 'outside the continental United States')
+'3' 'a graduate of Columbia University and Harvard Law School where he was president of the Harvard Law Review' 'be Born' 'in Honolulu Hawaii')
+'3' 'Obama' 'is' 'a graduate Born in Honolulu Hawaii')
+'3' 'Obama' 'is' 'a graduate of Columbia University and Harvard Law School')
+'3' 'he' 'was' 'president of the Harvard Law Review')
+'4' 'He' 'was' 'a community organizer in Chicago')
+'4' 'He' 'was' 'a community organizer before earning his law degree')
+'4' 'his' 'has' 'law degree')
+'5' 'He' 'worked' 'as a civil rights attorney')
+'5' 'He' 'taught' 'constitutional law at the University of Chicago Law School between 1992 and 2004')
+'6' 'three terms' 'be representing' 'the 13th District in the Illinois Senate from 1997 to 2004')
+'6' 'he' 'ran' 'unsuccessfully While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004')
+'6' 'he' 'ran' 'unsuccessfully in the Democratic primary for the United States Hou')
+
+
+
+Triples Extracted:
+
+
+Barack Hussein Obama II is an American politician who is the 44th and current President of the United States.
+((u'Barack', [u'Barack', u'Hussein', u'Obama', u'II']), (u'is', []), (u'politician', [u'an', u'American']))
+
+He is the first African American to hold the office and the first president born outside the continental United States.
+((u'office', [u'the']), (u'born', []), (u'office', [u'the']))
+
+Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review.
+((u'Honolulu', [u'Honolulu', u'Hawaii']), (u'Born', []), (u'Honolulu', [u'Honolulu', u'Hawaii']))
+
+He was a community organizer in Chicago before earning his law degree.
+((u'community', [u'a', u'in Chicago']), (u'earning', []), (u'community', [u'a', u'in Chicago']))
+
+He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004.
+((u'rights', [u'a', u'civil']), (u'taught', []), (u'rights', [u'a', u'civil']))
+
+While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States Hou
+((u'terms', [u'three']), (u'representing', []), (u'terms', [u'three']))
+
+
+Evaluation Results:
+
+Precision: 1/6 : 0.166
+Recall: 1/16 : 0.0625
+F-Score : 0.09

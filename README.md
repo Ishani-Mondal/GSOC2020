@@ -5,7 +5,8 @@
 Tregex_Obama_DBpedia.ipynb : Contains implementation of the Tregex-based Triple Prediction on the Barrack Obama Abstracts
 
 Mainly follows the algorithm of : http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.4005&rep=rep1&type=pdf
-1. Intially divide the sentences into three main chunks based on POS: NP-VP-NP
+
+Intially divide the sentences into three main chunks based on POS: NP-VP-NP
 	<subject, verb, object>
 
 ## Subject Finding:

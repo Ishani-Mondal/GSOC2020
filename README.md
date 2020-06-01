@@ -26,7 +26,7 @@ Moreover, for each of the element in the triplet, we also take a look into its m
 
 
 ### src/pyclausie Folder : 
-
+Paper: http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf
 Clause_IE_Predictions.ipynb : Contains implementation of the ClauseIE based Triple Prediction on the Barrack Obama Abstracts
 
 

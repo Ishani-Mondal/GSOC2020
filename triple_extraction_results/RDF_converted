@@ -1,17 +1,17 @@
 @prefix ns1: <http://xmlns.com/foaf/0.1/> .
 
-<http://dbpedia.org/resource/barack_obama> [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
-    [ ns1:name "taught" ] <http://dbpedia.org/resource/constitutional_law> ;
-    [ ns1:name "http://dbpedia.org/ontology/occupation" ] <http://dbpedia.org/resource/civil_and_political_rights> ;
-    [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
-    [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
-    [ ns1:name "taught" ] <http://dbpedia.org/resource/constitutional_law> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/united_states> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
+<http://dbpedia.org/resource/barack_obama> [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/united_states> ;
     [ ns1:name "ran" ] <http://dbpedia.org/resource/california_democratic_party> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/united_states> .
+    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
+    [ ns1:name "taught" ] <http://dbpedia.org/resource/constitutional_law> ;
+    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
+    [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
+    [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
+    [ ns1:name "taught" ] <http://dbpedia.org/resource/constitutional_law> ;
+    [ ns1:name "was" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
+    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/community_organizing> ;
+    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/united_states> ;
+    [ ns1:name "http://dbpedia.org/ontology/occupation" ] <http://dbpedia.org/resource/civil_and_political_rights> .
 
 <http://dbpedia.org/resource/united_states> [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/president_of_the_united_states> ;
     [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/president_of_the_united_states> .

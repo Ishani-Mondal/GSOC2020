@@ -1,0 +1,287 @@
+{
+  "annotation": {
+    "@text": "Barack Hussein Obama II is an American politician who is the 44th and current President of the United States. He is the first African American to hold the office and the first president born outside the continental United States. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004. While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States Hou",
+    "surfaceForm": [
+      {
+        "@name": "African American",
+        "@offset": "125",
+        "resource": {
+          "@label": "African Americans",
+          "@uri": "African_Americans",
+          "@contextualScore": "1.2623558550906831E-5",
+          "@percentageOfSecondRank": "0.04602570193635022",
+          "@support": "34378",
+          "@priorScore": "1.748854813718805E-4",
+          "@finalScore": "0.9557364979644885",
+          "@types": "Wikidata:Q41710, DBpedia:EthnicGroup"
+        }
+      },
+      {
+        "@name": "United States",
+        "@offset": "728",
+        "resource": {
+          "@label": "United States",
+          "@uri": "United_States",
+          "@contextualScore": "0.2907826577337206",
+          "@percentageOfSecondRank": "4.464603187377588E-5",
+          "@support": "563995",
+          "@priorScore": "0.0028691179552717944",
+          "@finalScore": "0.9999550107368192",
+          "@types": "Wikidata:Q6256, Schema:Place, Schema:Country, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:Country"
+        }
+      },
+      {
+        "@name": "Chicago",
+        "@offset": "531",
+        "resource": {
+          "@label": "Chicago",
+          "@uri": "Chicago",
+          "@contextualScore": "5.367000131455481E-4",
+          "@percentageOfSecondRank": "0.6386075561894313",
+          "@support": "120292",
+          "@priorScore": "6.119414836577535E-4",
+          "@finalScore": "0.6102742362027371",
+          "@types": "Wikidata:Q515, Wikidata:Q486972, Schema:Place, Schema:City, DBpedia:Settlement, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:City"
+        }
+      },
+      {
+        "@name": "Illinois Senate",
+        "@offset": "637",
+        "resource": {
+          "@label": "Illinois Senate",
+          "@uri": "Illinois_Senate",
+          "@contextualScore": "1.0",
+          "@percentageOfSecondRank": "0.0",
+          "@support": "1285",
+          "@priorScore": "6.536966768365421E-6",
+          "@finalScore": "1.0",
+          "@types": "Wikidata:Q43229, Wikidata:Q24229398, Wikidata:Q11204, DUL:SocialPerson, DUL:Agent, Schema:Organization, DBpedia:Organisation, DBpedia:Legislature, DBpedia:Agent"
+        }
+      },
+      {
+        "@name": "civil rights",
+        "@offset": "458",
+        "resource": {
+          "@label": "Civil and political rights",
+          "@uri": "Civil_and_political_rights",
+          "@contextualScore": "0.9436580600439847",
+          "@percentageOfSecondRank": "6.1179058187921054E-6",
+          "@support": "7890",
+          "@priorScore": "4.013748467113087E-5",
+          "@finalScore": "0.9999904321285406",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "Honolulu, Hawaii",
+        "@offset": "237",
+        "resource": {
+          "@label": "Honolulu",
+          "@uri": "Honolulu",
+          "@contextualScore": "0.9999945436293773",
+          "@percentageOfSecondRank": "2.0135335685380248E-11",
+          "@support": "10249",
+          "@priorScore": "5.21380330030951E-5",
+          "@finalScore": "0.9999999999798774",
+          "@types": "Wikidata:Q515, Wikidata:Q486972, Schema:Place, Schema:City, DBpedia:Settlement, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:City"
+        }
+      },
+      {
+        "@name": "constitutional law",
+        "@offset": "491",
+        "resource": {
+          "@label": "Constitutional law",
+          "@uri": "Constitutional_law",
+          "@contextualScore": "0.9976652568462065",
+          "@percentageOfSecondRank": "8.478414711550612E-6",
+          "@support": "1176",
+          "@priorScore": "5.982469198130533E-6",
+          "@finalScore": "0.9999895568896758",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "President",
+        "@offset": "77",
+        "resource": {
+          "@label": "President of the United States",
+          "@uri": "President_of_the_United_States",
+          "@contextualScore": "0.9846454514543772",
+          "@percentageOfSecondRank": "7.532456881240689E-4",
+          "@support": "51563",
+          "@priorScore": "2.6230787352313326E-4",
+          "@finalScore": "0.9992411619457909",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "community organizer",
+        "@offset": "381",
+        "resource": {
+          "@label": "Community organizing",
+          "@uri": "Community_organizing",
+          "@contextualScore": "0.9999999999999432",
+          "@percentageOfSecondRank": "0.0",
+          "@support": "513",
+          "@priorScore": "2.609699573674289E-6",
+          "@finalScore": "1.0",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "Harvard Law School",
+        "@offset": "302",
+        "resource": {
+          "@label": "Harvard Law School",
+          "@uri": "Harvard_Law_School",
+          "@contextualScore": "0.9999925028789904",
+          "@percentageOfSecondRank": "5.888157668925774E-8",
+          "@support": "5105",
+          "@priorScore": "2.5969817394945896E-5",
+          "@finalScore": "0.9999999411184053",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "continental United States",
+        "@offset": "202",
+        "resource": {
+          "@label": "Contiguous United States",
+          "@uri": "Contiguous_United_States",
+          "@contextualScore": "0.9999999857159879",
+          "@percentageOfSecondRank": "0.0",
+          "@support": "1576",
+          "@priorScore": "8.017322666882416E-6",
+          "@finalScore": "1.0",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "United States",
+        "@offset": "94",
+        "resource": {
+          "@label": "United States",
+          "@uri": "United_States",
+          "@contextualScore": "0.2907826577337206",
+          "@percentageOfSecondRank": "4.464603187377588E-5",
+          "@support": "563995",
+          "@priorScore": "0.0028691179552717944",
+          "@finalScore": "0.9999550107368192",
+          "@types": "Wikidata:Q6256, Schema:Place, Schema:Country, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:Country"
+        }
+      },
+      {
+        "@name": "American",
+        "@offset": "29",
+        "resource": {
+          "@label": "United States",
+          "@uri": "United_States",
+          "@contextualScore": "0.15415525506941333",
+          "@percentageOfSecondRank": "0.0020197067027064638",
+          "@support": "563995",
+          "@priorScore": "0.0028691179552717944",
+          "@finalScore": "0.9978111253581974",
+          "@types": "Wikidata:Q6256, Schema:Place, Schema:Country, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:Country"
+        }
+      },
+      {
+        "@name": "Harvard Law Review",
+        "@offset": "352",
+        "resource": {
+          "@label": "Harvard Law Review",
+          "@uri": "Harvard_Law_Review",
+          "@contextualScore": "1.0",
+          "@percentageOfSecondRank": "0.0",
+          "@support": "580",
+          "@priorScore": "2.950537529690229E-6",
+          "@finalScore": "1.0",
+          "@types": "Wikidata:Q737498, Wikidata:Q386724, Wikidata:Q1092563, Schema:CreativeWork, DBpedia:WrittenWork, DBpedia:Work, DBpedia:PeriodicalLiterature, DBpedia:AcademicJournal"
+        }
+      },
+      {
+        "@name": "Columbia University",
+        "@offset": "278",
+        "resource": {
+          "@label": "Columbia Law School",
+          "@uri": "Columbia_Law_School",
+          "@contextualScore": "0.9998204843576924",
+          "@percentageOfSecondRank": "0.5628451864548603",
+          "@support": "1688",
+          "@priorScore": "8.587081638132943E-6",
+          "@finalScore": "0.6398476869877694",
+          "@types": "Wikidata:Q43229, Wikidata:Q3914, Wikidata:Q24229398, DUL:SocialPerson, DUL:Agent, Schema:School, Schema:Organization, Schema:EducationalOrganization, DBpedia:School, DBpedia:Organisation, DBpedia:EducationalInstitution, DBpedia:Agent"
+        }
+      },
+      {
+        "@name": "Obama",
+        "@offset": "255",
+        "resource": {
+          "@label": "Barack Obama",
+          "@uri": "Barack_Obama",
+          "@contextualScore": "0.9657537195260731",
+          "@percentageOfSecondRank": "7.651503562053454E-5",
+          "@support": "25941",
+          "@priorScore": "1.3196533458223144E-4",
+          "@finalScore": "0.9999234907778586",
+          "@types": "Http://xmlns.com/foaf/0.1/Person, Wikidata:Q82955, Wikidata:Q5, Wikidata:Q30461, Wikidata:Q24229398, Wikidata:Q215627, DUL:NaturalPerson, DUL:Agent, Schema:Person, DBpedia:President, DBpedia:Politician, DBpedia:Person, DBpedia:Agent"
+        }
+      },
+      {
+        "@name": "Chicago",
+        "@offset": "404",
+        "resource": {
+          "@label": "Chicago",
+          "@uri": "Chicago",
+          "@contextualScore": "5.367000131464024E-4",
+          "@percentageOfSecondRank": "0.6386075561894313",
+          "@support": "120292",
+          "@priorScore": "6.119414836577535E-4",
+          "@finalScore": "0.6102742362027371",
+          "@types": "Wikidata:Q515, Wikidata:Q486972, Schema:Place, Schema:City, DBpedia:Settlement, DBpedia:PopulatedPlace, DBpedia:Place, DBpedia:Location, DBpedia:City"
+        }
+      },
+      {
+        "@name": "Democratic",
+        "@offset": "701",
+        "resource": {
+          "@label": "California Democratic Party",
+          "@uri": "California_Democratic_Party",
+          "@contextualScore": "0.3301152061568369",
+          "@percentageOfSecondRank": "0.5686730265872688",
+          "@support": "550",
+          "@priorScore": "2.7979235195338377E-6",
+          "@finalScore": "0.5885485909445551",
+          "@types": "Wikidata:Q7278, Wikidata:Q43229, Wikidata:Q24229398, DUL:SocialPerson, DUL:Agent, Schema:Organization, DBpedia:PoliticalParty, DBpedia:Organisation, DBpedia:Agent"
+        }
+      },
+      {
+        "@name": "attorney",
+        "@offset": "471",
+        "resource": {
+          "@label": "Lawyer",
+          "@uri": "Lawyer",
+          "@contextualScore": "0.013601343876341045",
+          "@percentageOfSecondRank": "0.6596902236691148",
+          "@support": "12253",
+          "@priorScore": "6.233264888154203E-5",
+          "@finalScore": "0.5315079996300817",
+          "@types": ""
+        }
+      },
+      {
+        "@name": "Barack Hussein Obama",
+        "@offset": "6",
+        "resource": {
+          "@label": "Family of Barack Obama",
+          "@uri": "Family_of_Barack_Obama",
+          "@contextualScore": "0.9999999999996021",
+          "@percentageOfSecondRank": "0.0",
+          "@support": "311",
+          "@priorScore": "1.5820985719545884E-6",
+          "@finalScore": "1.0",
+          "@types": ""
+        }
+      }
+    ]
+  }
+}

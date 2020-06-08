@@ -1,0 +1,163 @@
+{
+  "@text": "Barack Hussein Obama II is an American politician who is the 44th and current President of the United States. He is the first African American to hold the office and the first president born outside the continental United States. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He was a community organizer in Chicago before earning his law degree. He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School between 1992 and 2004. While serving three terms representing the 13th District in the Illinois Senate from 1997 to 2004, he ran unsuccessfully in the Democratic primary for the United States Hou",
+  "@confidence": "0.5",
+  "@support": "0",
+  "@types": "",
+  "@sparql": "",
+  "@policy": "whitelist",
+  "Resources": [
+    {
+      "@URI": "http://dbpedia.org/resource/Barack_Obama",
+      "@support": "25941",
+      "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+      "@surfaceForm": "Barack Hussein Obama II",
+      "@offset": "0",
+      "@similarityScore": "1.0",
+      "@percentageOfSecondRank": "0.0"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/United_States",
+      "@support": "563995",
+      "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+      "@surfaceForm": "American",
+      "@offset": "30",
+      "@similarityScore": "0.9974851320058558",
+      "@percentageOfSecondRank": "0.002224646482928707"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/President_of_the_United_States",
+      "@support": "51563",
+      "@types": "",
+      "@surfaceForm": "President",
+      "@offset": "78",
+      "@similarityScore": "0.9997727678875827",
+      "@percentageOfSecondRank": "2.2653972232212648E-4"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/United_States",
+      "@support": "563995",
+      "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+      "@surfaceForm": "United States",
+      "@offset": "95",
+      "@similarityScore": "0.9999348430092055",
+      "@percentageOfSecondRank": "6.497954075079103E-5"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/African_Americans",
+      "@support": "34378",
+      "@types": "Wikidata:Q41710,DBpedia:EthnicGroup",
+      "@surfaceForm": "African American",
+      "@offset": "126",
+      "@similarityScore": "0.6506439052835932",
+      "@percentageOfSecondRank": "0.5367965425756841"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Contiguous_United_States",
+      "@support": "1576",
+      "@types": "",
+      "@surfaceForm": "continental United States",
+      "@offset": "203",
+      "@similarityScore": "1.0",
+      "@percentageOfSecondRank": "0.0"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Honolulu",
+      "@support": "10249",
+      "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
+      "@surfaceForm": "Honolulu, Hawaii",
+      "@offset": "238",
+      "@similarityScore": "0.9999999999938609",
+      "@percentageOfSecondRank": "6.116362656585456E-12"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Barack_Obama",
+      "@support": "25941",
+      "@types": "Http://xmlns.com/foaf/0.1/Person,Wikidata:Q82955,Wikidata:Q5,Wikidata:Q30461,Wikidata:Q24229398,Wikidata:Q215627,DUL:NaturalPerson,DUL:Agent,Schema:Person,DBpedia:President,DBpedia:Politician,DBpedia:Person,DBpedia:Agent",
+      "@surfaceForm": "Obama",
+      "@offset": "256",
+      "@similarityScore": "0.999982111056335",
+      "@percentageOfSecondRank": "1.788918140796097E-5"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Columbia_Law_School",
+      "@support": "1688",
+      "@types": "Wikidata:Q43229,Wikidata:Q3914,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:School,Schema:Organization,Schema:EducationalOrganization,DBpedia:School,DBpedia:Organisation,DBpedia:EducationalInstitution,DBpedia:Agent",
+      "@surfaceForm": "Columbia University",
+      "@offset": "279",
+      "@similarityScore": "0.8373952276058263",
+      "@percentageOfSecondRank": "0.19410951751552954"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Harvard_Law_School",
+      "@support": "5105",
+      "@types": "",
+      "@surfaceForm": "Harvard Law School",
+      "@offset": "303",
+      "@similarityScore": "0.9999999829540799",
+      "@percentageOfSecondRank": "1.7045937877136745E-8"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Harvard_Law_Review",
+      "@support": "580",
+      "@types": "Wikidata:Q737498,Wikidata:Q386724,Wikidata:Q1092563,Schema:CreativeWork,DBpedia:WrittenWork,DBpedia:Work,DBpedia:PeriodicalLiterature,DBpedia:AcademicJournal",
+      "@surfaceForm": "Harvard Law Review",
+      "@offset": "353",
+      "@similarityScore": "1.0",
+      "@percentageOfSecondRank": "0.0"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Community_organizing",
+      "@support": "513",
+      "@types": "",
+      "@surfaceForm": "community organizer",
+      "@offset": "382",
+      "@similarityScore": "1.0",
+      "@percentageOfSecondRank": "0.0"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Civil_and_political_rights",
+      "@support": "7890",
+      "@types": "",
+      "@surfaceForm": "civil rights",
+      "@offset": "459",
+      "@similarityScore": "0.9999913174277205",
+      "@percentageOfSecondRank": "5.193036394295847E-6"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Constitutional_law",
+      "@support": "1176",
+      "@types": "",
+      "@surfaceForm": "constitutional law",
+      "@offset": "492",
+      "@similarityScore": "0.9999917773766765",
+      "@percentageOfSecondRank": "5.578877872549862E-6"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/Illinois_Senate",
+      "@support": "1285",
+      "@types": "Wikidata:Q43229,Wikidata:Q24229398,Wikidata:Q11204,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Legislature,DBpedia:Agent",
+      "@surfaceForm": "Illinois Senate",
+      "@offset": "638",
+      "@similarityScore": "1.0",
+      "@percentageOfSecondRank": "0.0"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/California_Democratic_Party",
+      "@support": "550",
+      "@types": "Wikidata:Q7278,Wikidata:Q43229,Wikidata:Q24229398,DUL:SocialPerson,DUL:Agent,Schema:Organization,DBpedia:PoliticalParty,DBpedia:Organisation,DBpedia:Agent",
+      "@surfaceForm": "Democratic",
+      "@offset": "702",
+      "@similarityScore": "0.735638363975237",
+      "@percentageOfSecondRank": "0.25241532876712897"
+    },
+    {
+      "@URI": "http://dbpedia.org/resource/United_States",
+      "@support": "563995",
+      "@types": "Wikidata:Q6256,Schema:Place,Schema:Country,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:Country",
+      "@surfaceForm": "United States",
+      "@offset": "729",
+      "@similarityScore": "0.9999348430092055",
+      "@percentageOfSecondRank": "6.497954075079103E-5"
+    }
+  ]
+}

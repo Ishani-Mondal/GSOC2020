@@ -1,8 +1,8 @@
 Results from ClauseIE:
 
 '1' 'Barack Hussein Obama II' 'is' 'an American politician')
-'1' 'an American politician' 'is' 'the 44th and current President of the United States')
-'1' 'an American politician' 'is' 'the 44th and current President')
+'1' 'Obama' 'is' 'the 44th and current President of the United States')
+'1' 'Obama' 'is' 'the 44th and current President')
 '2' 'Obama' 'is' 'the first African American to hold the office and the first president born outside the continental United States')
 '2' 'the first president' 'be born' 'outside the continental United States')
 '3' 'Obama' 'be Born' 'in Honolulu Hawaii')

@@ -1,62 +1,23 @@
-'1' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'an <http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/Politician>')
-
-'1' 'an <http://dbpedia.org/resource/United_States> politician' 'is' 'the 44th and current <http://dbpedia.org/resource/President_of_the_United_States> of the <http://dbpedia.org/resource/United_States>')
-
-'1' 'an <http://dbpedia.org/resource/United_States> politician' 'is' 'the 44th and current <http://dbpedia.org/ontology/PopulatedPlace')
-
-'2' 'He' 'is' 'the first <http://dbpedia.org/ontology/EthnicGroup> to hold the office and the first president born outside the continental United States')
-
-
-'2' 'the first president' 'be born' 'outside the continental United States')
-
-
-'3' 'a graduate of 'http://dbpedia.org/resource/Columbia_Law_School' and <http://dbpedia.org/resource/Harvard_Law_School> where he was president of the <http://dbpedia.org/resource/Harvard_Law_Review>' 'be Born' 'in <http://dbpedia.org/ontology/Settlement>')
-
-
-'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate Born in <http://dbpedia.org/ontology/Settlement>')
-
-
-'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate of <http://dbpedia.org/ontology/EducationalInstitution> and <http://dbpedia.org/resource/Harvard_Law_School>')
-
-
-'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate where he was president of the <http://dbpedia.org/resource/Harvard_Law_Review>')
-
-
-'3' '<http://dbpedia.org/resource/Barack_Obama>'' 'is' 'a graduate')
-
-
-'3' 'he' 'was' '<http://dbpedia.org/resource/President_of_the_United_States> where')
-
-
-'3' 'he' 'was' '<http://dbpedia.org/resource/President_of_the_United_States> of the <http://dbpedia.org/resource/Harvard_Law_Review>')
-
-
-'3' 'he' 'was' 'http://dbpedia.org/resource/President_of_the_United_States')
-
-
-'4' 'He' 'was' 'a http://dbpedia.org/resource/Community_organizing in <http://dbpedia.org/page/Chicago>')
-
-
-'4' 'He' 'was' 'a <http://dbpedia.org/resource/Community_organizing>  before earning his law degree')
-
-
-'4' 'He' 'was' 'a <http://dbpedia.org/resource/Community_organizing> ')
-
-
-'5' 'He' 'worked' 'as a <http://dbpedia.org/resource/Civil_and_political_rights>')
-
-'5' 'He' 'taught' 'http://dbpedia.org/resource/Constitutional_law' at the University of Chicago Law School between 1992 and 2004')
-
-'5' 'He' 'taught' 'http://dbpedia.org/resource/Constitutional_law'')
-
-
-'6' 'three terms' 'be representing' 'the 13th District in the http://dbpedia.org/resource/Illinois_Senate from 1997 to 2004')
-
-
-'6' 'he' 'ran' 'unsuccessfully While serving three terms representing the 13th District in the <http://dbpedia.org/resource/Illinois_Senate> from 1997 to 2004')
-
-
-'6' 'he' 'ran' 'unsuccessfully in the <http://dbpedia.org/resource/California_Democratic_Party> primary for the <http://dbpedia.org/resource/United_States> Hou')
-
-
-'6' 'he' 'ran' 'unsuccessfully')
+'1' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'an http://dbpedia.org/resource/United_States politician')
+'1' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'the 44th and current http://dbpedia.org/resource/President_of_the_United_States')
+'1' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'the 44th and current http://dbpedia.org/resource/President_of_the_United_States')
+'2' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'first http://dbpedia.org/resource/African_Americans to hold the office and the first http://dbpedia.org/resource/President_of_the_United_States born outside the http://dbpedia.org/resource/Contiguous_United_States')
+'2' '<http://dbpedia.org/resource/Barack_Obama>' 'be born' 'outside the http://dbpedia.org/resource/Contiguous_United_States')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'be Born' 'in Honolulu Hawaii')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate Born in Honolulu Hawaii')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate of http://dbpedia.org/resource/Columbia_Law_School and http://dbpedia.org/resource/Harvard_Law_School')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate where he was http://dbpedia.org/resource/President_of_the_United_States of the http://dbpedia.org/resource/Harvard_Law_School')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'is' 'a graduate')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'http://dbpedia.org/resource/President_of_the_United_States where')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'http://dbpedia.org/resource/President_of_the_United_States of the http://dbpedia.org/resource/Harvard_Law_Review')
+'3' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'http://dbpedia.org/resource/President_of_the_United_States')
+'4' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'a community organizer in Chicago')
+'4' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'a http://dbpedia.org/resource/Community_organizing before earning his law degree')
+'4' '<http://dbpedia.org/resource/Barack_Obama>' 'was' 'a http://dbpedia.org/resource/Community_organizing')
+'4' '<http://dbpedia.org/resource/Barack_Obama>' 'has' 'law degree')
+'5' '<http://dbpedia.org/resource/Barack_Obama>' 'worked' 'a http://dbpedia.org/resource/Civil_and_political_rights attorney')
+'5' '<http://dbpedia.org/resource/Barack_Obama>' 'taught' 'http://dbpedia.org/resource/Constitutional_law at the University of Chicago Law School between 1992 and 2004')
+'5' '<http://dbpedia.org/resource/Barack_Obama>' 'taught' 'http://dbpedia.org/resource/Constitutional_law')
+'6' '<http://dbpedia.org/resource/Barack_Obama>' 'ran' 'unsuccessfully while serving three terms representing the 13th district in the http://dbpedia.org/resource/Illinois_Senate from 1997 to 2004')
+'6' '<http://dbpedia.org/resource/Barack_Obama>' 'ran' 'unsuccessfully in the http://dbpedia.org/resource/California_Democratic_Party primary for the http://dbpedia.org/resource/United_States hou')
+'6' '<http://dbpedia.org/resource/Barack_Obama>' 'ran' 'unsuccessfully')

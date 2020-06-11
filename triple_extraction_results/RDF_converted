@@ -1,19 +1,26 @@
 @prefix ns1: <http://xmlns.com/foaf/0.1/> .
 
-<http://dbpedia.org/resource/Barack_Obama> [ ns1:name "was" ] <http://dbpedia.org/resource/President_of_the_United_States> ;
-    [ ns1:name "was" ] <http://dbpedia.org/resource/President_of_the_United_States> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/Community_organizing> ;
-    [ ns1:name "ran" ] <http://dbpedia.org/resource/California_Democratic_Party> ;
-    [ ns1:name "http://dbpedia.org/ontology/occupation" ] <http://dbpedia.org/resource/Civil_and_political_rights> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/Community_organizing> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/United_States> ;
-    [ ns1:name "taught" ] <http://dbpedia.org/resource/Constitutional_law> ;
-    [ ns1:name "taught" ] <http://dbpedia.org/resource/Constitutional_law> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/Community_organizing> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/United_States> ;
-    [ ns1:name "was" ] <http://dbpedia.org/resource/President_of_the_United_States> .
-
-<http://dbpedia.org/resource/United_States> [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/President_of_the_United_States> ;
-    [ ns1:name "rdf:type" ] <http://dbpedia.org/resource/President_of_the_United_States> .
-
-<http://dbpedia.org/resource/President_of_the_United_States> [ ns1:name "be" ] <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Barack_Obama> [ ns1:name "was" ] [ ns1:name "http://dbpedia.org/resource/President_of_the_United_States where" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "graduate" ] ;
+    [ ns1:name "be born" ] [ ns1:name "in honolulu hawaii" ] ;
+    [ ns1:name "ran" ] [ ns1:name "unsuccessfully while serving three terms representing the 13th district in the http://dbpedia.org/resource/Illinois_Senate from 1997 to 2004" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "http://dbpedia.org/resource/Community_organizing before earning his law degree" ] ;
+    [ ns1:name "ran" ] [ ns1:name "unsuccessfully in the http://dbpedia.org/resource/California_Democratic_Party primary for the http://dbpedia.org/resource/United_States hou" ] ;
+    [ ns1:name "http://dbpedia.org/ontology/occupation" ] [ ns1:name "a http://dbpedia.org/resource/Civil_and_political_rights attorney" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "http://dbpedia.org/resource/Community_organizing" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "first http://dbpedia.org/resource/African_Americans to hold the office and the first http://dbpedia.org/resource/President_of_the_United_States born outside the http://dbpedia.org/resource/Contiguous_United_States" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "44th and current http://dbpedia.org/resource/President_of_the_United_States of the http://dbpedia.org/resource/United_States" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "http://dbpedia.org/resource/Community_organizing in chicago" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "graduate where he was http://dbpedia.org/resource/President_of_the_United_States of the http://dbpedia.org/resource/Harvard_Law_Review" ] ;
+    [ ns1:name "taught" ] [ ns1:name "http://dbpedia.org/resource/Constitutional_law at the university of chicago law school between 1992 and 2004" ] ;
+    [ ns1:name "be born" ] [ ns1:name "outside the http://dbpedia.org/resource/Contiguous_United_States" ] ;
+    [ ns1:name "taught" ] [ ns1:name "http://dbpedia.org/resource/Constitutional_law" ] ;
+    [ ns1:name "has" ] [ ns1:name "law degree" ] ;
+    [ ns1:name "be representing" ] [ ns1:name "the 13th district in the http://dbpedia.org/resource/Illinois_Senate from 1997 to 2004" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "http://dbpedia.org/ontology/college http://dbpedia.org/resource/Columbia_Law_School and http://dbpedia.org/resource/Harvard_Law_School" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "graduate born in honolulu hawaii" ] ;
+    [ ns1:name "was" ] [ ns1:name "http://dbpedia.org/resource/President_of_the_United_States" ] ;
+    [ ns1:name "ran" ] [ ns1:name "unsuccessfully" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "http://dbpedia.org/resource/United_States politician" ] ;
+    [ a "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" ] [ ns1:name "44th and current http://dbpedia.org/resource/President_of_the_United_States" ] ;
+    [ ns1:name "was" ] [ ns1:name "http://dbpedia.org/resource/President_of_the_United_States of the http://dbpedia.org/resource/Harvard_Law_Review" ] .

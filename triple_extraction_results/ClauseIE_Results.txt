@@ -4,7 +4,7 @@ Results from ClauseIE:
 '1' 'Obama' 'is' 'the 44th and current President of the United States')
 '1' 'Obama' 'is' 'the 44th and current President')
 '2' 'Obama' 'is' 'the first African American to hold the office and the first president born outside the continental United States')
-'2' 'the first president' 'be born' 'outside the continental United States')
+'2' 'Obama' 'be born' 'outside the continental United States')
 '3' 'Obama' 'be Born' 'in Honolulu Hawaii')
 '3' 'Obama' 'is' 'a graduate Born in Honolulu Hawaii')
 '3' 'Obama' 'is' 'a graduate of Columbia University and Harvard Law School')

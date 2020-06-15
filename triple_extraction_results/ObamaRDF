@@ -6,6 +6,7 @@
   <rdf:Description rdf:about="http://dbpedia.org/page/Barack_Obama">
     <ns1:occupation rdf:resource="http://dbpedia.org/resource/Civil_and_political_rights"/>
     <ns1:birthPlace rdf:resource="http://dbpedia.org/resource/Honolulu"/>
+     <ns1:birthPlace rdf:resource="http://dbpedia.org/resource/Contiguous_United_States"/>
     <rdf:type>graduate</rdf:type>
     <rdf:type rdf:resource="http://dbpedia.org/resource/Community_organizing"/>
     <rdf:type rdf:resource="http://dbpedia.org/page/President_of_the_United_States"/>

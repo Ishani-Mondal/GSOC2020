@@ -1,9 +1,14 @@
-@prefix ns1: <http://dbpedia.org/ontology/> .
-
-<http://dbpedia.org/resource/Barack_Obama> a <http://dbpedia.org/resource/President_of_the_United_States>,
-        <http://dbpedia.org/resource/United_States> ;
-    ns1:birthPlace <http://dbpedia.org/resource/Contiguous_United_States>,
-        <http://dbpedia.org/resource/United_States> ;
-    ns1:college <http://dbpedia.org/resource/Columbia_Law_School>,
-        <http://dbpedia.org/resource/Harvard_Law_School> ;
-    ns1:occupation ns1:Lawyer .
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://dbpedia.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barack_Obama">
+    <ns1:college rdf:resource="http://dbpedia.org/resource/Columbia_Law_School"/>
+    <ns1:college rdf:resource="http://dbpedia.org/resource/Harvard_Law_School"/>
+    <ns1:occupation rdf:resource="http://dbpedia.org/ontology/Lawyer"/>
+    <ns1:birthPlace rdf:resource="http://dbpedia.org/resource/Contiguous_United_States"/>
+    <ns1:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdf:type rdf:resource="http://dbpedia.org/resource/President_of_the_United_States"/>
+  </rdf:Description>
+</rdf:RDF>

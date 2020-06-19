@@ -64,7 +64,7 @@
       "@URI": "http://dbpedia.org/resource/Honolulu",
       "@support": "10249",
       "@types": "Wikidata:Q515,Wikidata:Q486972,Schema:Place,Schema:City,DBpedia:Settlement,DBpedia:PopulatedPlace,DBpedia:Place,DBpedia:Location,DBpedia:City",
-      "@surfaceForm": "Honolulu, Hawaii",
+      "@surfaceForm": "Honolulu Hawaii",
       "@offset": "238",
       "@similarityScore": "0.9999999999938609",
       "@percentageOfSecondRank": "6.116362656585456E-12"
